@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Baitapvenha\bin\Debug\Baitapvenha.exe.config
+C:\Users\Admin\source\repos\Baitapvenha\bin\Debug\Baitapvenha.exe
+C:\Users\Admin\source\repos\Baitapvenha\bin\Debug\Baitapvenha.pdb
+C:\Users\Admin\source\repos\Baitapvenha\obj\Debug\Baitapvenha.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Baitapvenha\obj\Debug\Baitapvenha.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Baitapvenha\obj\Debug\Baitapvenha.exe
+C:\Users\Admin\source\repos\Baitapvenha\obj\Debug\Baitapvenha.pdb
